@@ -1,0 +1,12 @@
+__pycache__/*
+venv/
+classes/__pycache__/*
+utils/__pycache__/*
+utils/BVC/__pycache__/*
+utils/PLAZA/__pycache__/*
+Bangente/__pycache__/*
+Bangente/classes/__pycache__/*
+Bangente/utils/__pycache__/*
+build/*
+Paso2/*
+dist/*
